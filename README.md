@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudheer-x and i am a visual artist.
-- 👀 I’m interested in developing WebGl projects and game environemnets using Unity/Unreal Engine.
+- 👀 I’m interested in developing WebGL projects and game environemnets using Unity/Unreal Engine.
 - 🌱 I’m currently learning .js libraries because i am very new to coding.
 - 💞️ I’m looking to collaborate on similar artist projects and enquiries.
 - 📫 You can reach me via ambasanasudheer@gmail.com and view my work on my webpage here https://sudhirambasana.com/
